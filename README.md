@@ -14,5 +14,7 @@
 >I know how to use a bit of python and pygame zero and am decently versed in HTML and blender.
 >
 >In the future I'd like to be able to read other languages fluently.
+><img width="153" height="148" alt="download" src="https://github.com/user-attachments/assets/5aaa8560-5d73-45fb-9ab1-4402590ecbdd" />
+
 >
 <p>Quotes highkey look better than paragraphs</p>
